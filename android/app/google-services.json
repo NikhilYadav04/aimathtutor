@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "208780582743",
+    "project_id": "final-cb1a0",
+    "storage_bucket": "final-cb1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208780582743:android:4c92d0605ca986dd7ea812",
+        "android_client_info": {
+          "package_name": "com.example.math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208780582743-80910ifn6j9f4tt7in6rs9b2lrolfp1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhyvvFiShoeASGu4CYbJFkobpoCGgF6o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208780582743-80910ifn6j9f4tt7in6rs9b2lrolfp1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208780582743-5vg1itqs776lb6h0d7e5vtmjuor8hh4f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nikhil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
